@@ -1,1 +1,1 @@
-My first readme
+The ALX Pre course 
